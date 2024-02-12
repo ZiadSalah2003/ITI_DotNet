@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sunrice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b2cfcda45a16b72a7b98f1379ed17ac65b5eabd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cdbaa66c6efcbe75738afc1adb7167c2e3a6605")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sunrice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sunrice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
