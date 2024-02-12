@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Ahmed Hozain\\source\\repos\\Sunrice\\Sunrice\\wwwroot\\images\\No.jpg",
+      "PackagePath": "staticwebassets\\images\\No.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ahmed Hozain\\source\\repos\\Sunrice\\Sunrice\\wwwroot\\images\\Products\\a1537f65-5178-4c57-8171-08f5dabda9a1.jpg",
+      "PackagePath": "staticwebassets\\images\\Products\\a1537f65-5178-4c57-8171-08f5dabda9a1.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Sunrice.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Sunrice.props",
+      "PackagePath": "build\\Sunrice.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Sunrice.props",
+      "PackagePath": "buildMultiTargeting\\Sunrice.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Sunrice.props",
+      "PackagePath": "buildTransitive\\Sunrice.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "jQRSInCWuBfFcCR6X6B2MkVncBTRM+bp8i3IVWdCmMU=",
+  "Source": "Sunrice",
+  "BasePath": "_content/Sunrice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Sunrice\\wwwroot",
+      "Source": "Sunrice",
+      "ContentRoot": "C:\\Users\\Ahmed Hozain\\source\\repos\\Sunrice\\Sunrice\\wwwroot\\",
+      "BasePath": "_content/Sunrice",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Ahmed Hozain\\source\\repos\\Sunrice\\Sunrice\\wwwroot\\images\\No.jpg",
+      "SourceId": "Sunrice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmed Hozain\\source\\repos\\Sunrice\\Sunrice\\wwwroot\\",
+      "BasePath": "_content/Sunrice",
+      "RelativePath": "images/No.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\No.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmed Hozain\\source\\repos\\Sunrice\\Sunrice\\wwwroot\\images\\Products\\a1537f65-5178-4c57-8171-08f5dabda9a1.jpg",
+      "SourceId": "Sunrice",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmed Hozain\\source\\repos\\Sunrice\\Sunrice\\wwwroot\\",
+      "BasePath": "_content/Sunrice",
+      "RelativePath": "images/Products/a1537f65-5178-4c57-8171-08f5dabda9a1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Products\\a1537f65-5178-4c57-8171-08f5dabda9a1.jpg"
+    }
+  ]
+}

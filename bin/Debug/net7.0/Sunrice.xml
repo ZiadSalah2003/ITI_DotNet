@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Sunrice</name>
+    </assembly>
+    <members>
+        <member name="M:Sunrice.Controllers.CategoriesController.GetCategories(System.String,System.String,System.String,System.Int32,System.Int32)">
+            <summary>
+            Get All Category
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Sunrice.Controllers.CategoriesController.GetCategories(System.Int32)">
+            <summary>
+            Get Category
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Sunrice.Controllers.CategoriesController.PostCategory(Sunrice.Models.Category)">
+            <summary>
+            Add Category
+            </summary>
+            <param name="cat"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Sunrice.Controllers.CategoriesController.PutCategory(Sunrice.Models.Category)">
+            <summary>
+            Update Category
+            </summary>
+            <param name="cat"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Sunrice.Controllers.CategoriesController.DeleteCategory(System.Int32)">
+            <summary>
+            Delete Category
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Sunrice.Controllers.ProductsController.GetProducts(System.Int32,System.String,System.String,System.String,System.Int32,System.Int32)">
+            <summary>
+            Gets All Products
+            </summary>
+            <returns>List Of Products</returns>
+        </member>
+        <member name="M:Sunrice.Controllers.ProductsController.GetProduct(System.Int32)">
+            <summary>
+            Gets The Produts Name Price And Dec
+            </summary>
+            <param name="id"></param>
+            <returns>Product Object </returns>
+        </member>
+        <member name="M:Sunrice.Controllers.ProductsController.PostProducts(Sunrice.Models.Product)">
+            <summary>
+            Add New Products
+            </summary>
+            <param name="prod"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Sunrice.Controllers.ProductsController.PutProduct(Sunrice.Models.Product)">
+            <summary>
+            Update Products
+            </summary>
+            <param name="prod"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Sunrice.Controllers.ProductsController.DeleteProduct(System.Int32)">
+            <summary>
+            Delete Products
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Sunrice.Migrations.CreatingDb">
+            <inheritdoc />
+        </member>
+        <member name="M:Sunrice.Migrations.CreatingDb.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Sunrice.Migrations.CreatingDb.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Sunrice.Migrations.CreatingDb.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:Sunrice.Migrations.AddingCategoriesAndProductsTables">
+            <inheritdoc />
+        </member>
+        <member name="M:Sunrice.Migrations.AddingCategoriesAndProductsTables.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Sunrice.Migrations.AddingCategoriesAndProductsTables.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Sunrice.Migrations.AddingCategoriesAndProductsTables.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:Sunrice.Migrations.AddingCreatedAtAndLastUpdatedAtColumns">
+            <inheritdoc />
+        </member>
+        <member name="M:Sunrice.Migrations.AddingCreatedAtAndLastUpdatedAtColumns.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Sunrice.Migrations.AddingCreatedAtAndLastUpdatedAtColumns.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Sunrice.Migrations.AddingCreatedAtAndLastUpdatedAtColumns.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:Sunrice.Migrations.AddingImagePathColumnToProductsAndCategoryTable">
+            <inheritdoc />
+        </member>
+        <member name="M:Sunrice.Migrations.AddingImagePathColumnToProductsAndCategoryTable.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Sunrice.Migrations.AddingImagePathColumnToProductsAndCategoryTable.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Sunrice.Migrations.AddingImagePathColumnToProductsAndCategoryTable.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:Sunrice.Migrations.AddingCustomer">
+            <inheritdoc />
+        </member>
+        <member name="M:Sunrice.Migrations.AddingCustomer.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Sunrice.Migrations.AddingCustomer.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Sunrice.Migrations.AddingCustomer.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="P:Sunrice.Models.Category.Id">
+            <summary>
+            A Unique Int auto-generated Identifier
+            </summary>
+        </member>
+        <member name="P:Sunrice.Models.Product.Id">
+            <summary>
+            A Unique Int auto-generated Identifier
+            </summary>
+        </member>
+    </members>
+</doc>
